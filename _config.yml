@@ -9,15 +9,15 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: rohin daswani
-email: rohindaswani@gmail.com
-facebook_username: rohin.daswani
-twitter_username: @RohinDaswani1
-github_username: rohindaswani
+owner: "rohin daswani"
+email: "rohindaswani@gmail.com"
+facebook_username: "rohin.daswani"
+twitter_username: "@RohinDaswani1"
+github_username: "rohindaswani"
 address:
   - line:
   - line:
-  # Feel free to add more lines here 
+  # Feel free to add more lines here
 telephone:
 copyright:
 
