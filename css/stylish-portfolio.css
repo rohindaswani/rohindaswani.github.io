@@ -172,10 +172,21 @@ hr.small {
 
 .services {
     padding: 50px 0;
+    background: rgba(16, 0, 3, 0.89);
+    color: white;
 }
 
 .service-item {
     margin-bottom: 30px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.no-decoration {
+    color: white;
+    text-decoration: underline;
 }
 
 /* Callout */
