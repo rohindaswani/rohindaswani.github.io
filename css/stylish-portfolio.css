@@ -189,6 +189,18 @@ hr.small {
     text-decoration: underline;
 }
 
+/* Side Projects */
+
+.side-projects {
+    padding: 50px 0;
+    background: lightgray;
+    color: black;
+}
+
+.side-item {
+    margin-bottom: 30px;
+}
+
 /* Callout */
 
 .callout {

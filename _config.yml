@@ -2,9 +2,7 @@
 title: Rohin Daswani
 email: rohindaswani@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a Curious Technologist. What is that you ask? I am Full-Stack Software Engineer with wide ranging interests some of which include art, food and policy. Coloring calms me, sichuan food energizes me and the Indian Political Economy intrigues me.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://rohindaswani.github.io" # the base hostname & protocol for your site
 
