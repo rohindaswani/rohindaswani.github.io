@@ -1,23 +1,20 @@
-# Site settings
 title: Rohin Daswani
 email: rohindaswani@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   I am a Curious Technologist. What is that you ask? I am Full-Stack Software Engineer with wide ranging interests some of which include art, food and policy. Coloring calms me, sichuan food energizes me and the Indian Political Economy intrigues me.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://rohindaswani.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: "https://rohindaswani.github.io"
 
-# User setting
 owner: "rohin daswani"
-email: "rohindaswani@gmail.com"
+email: "rohindaswani@g h mail dot com"
 facebook_username: "rohin.daswani"
 twitter_username: "@RohinDaswani1"
 github_username: "rohindaswani"
-address:
-  - line:
-  - line:
-  # Feel free to add more lines here
-telephone:
-copyright:
+#address:
+#  - line:
+#  - line:
+#telephone:
+copyright: rohindaswani
 
 # API settings
 google_api_key:
