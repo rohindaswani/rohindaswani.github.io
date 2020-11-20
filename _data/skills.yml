@@ -1,23 +1,31 @@
-- title: Adobe Photoshop
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 75%
+- title: Full-Stack Development
+  desc: Built React, CoffeeScript, and vanilla JS clients. I've designed RESTful and GraphQL APIs using industry best practices. I've built web servers in Ruby on Rails, and Elixir using MySQL and PostgreSQL
+  progress: 95%
 
-- title: Web Design
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 68% 
+- title: Backend Development
+  desc: I've architected and built multi-server applications that trigger both synchronous and asynchronous jobs. I've also built pull based data ingestion engines that leverage concurrency and multi-threadedness to pull vasts amounts of data from external systems
+  progress: 84%
 
-- title: Back-End Development
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+- title: Elixir
+  desc: I've used Elixir Phoenix to build web services for React front-ends, with standard RESTful APIs and GraphQL APIs. I also use Elixir to build and manage ETL workflows, leveraging concurrency to parallelize work. Elixir is my go to language for any product that has an immediate (in 1-2 years) need for scale.
+  progress: 85%
+
+- title: Ruby On Rails
+  desc: Ruby on Rails is my go to framework for web services that don't have an inherent need for scale but need to be built quickly with quality. I've upgraded applications from Rails 5 to Rails 6. I've built RESTful and GraphQL APIs for Ruby on Rails servers. I have also leveraged RoRs extensive synchronous and aynchronous job scheduling to parallelize and delay work that isn't urgent.
+  progress: 95%
+
+- title: GraphQL
+  desc: I use GraphQL to design almost all my APIs. GraphQL doesn't have a strong authentication and authorization model, so I stick with REST for that. Once the JTW token is generated I switch to GraphQL. GraphQL allows for faster development time, automagic documentation and reduced data payloads between clients and servers. The extensibility of APIs is another big reason why I stick with GraphQL
   progress: 90%
 
 - title: Javascript
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 55%
+  desc: I've built a complex data analytics dashboard using vanilla JS, CoffeeScript and JQuery. I leveraged the power of the dom and the event-based architecture to create complex user components that triggered a updates across the page
+  progress: 75%
 
-- title: HTML5 And CSS3
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 88% 
+- title: React
+  desc: I'm very familiar with the language, reading and writing simple React. I've built simple React components, and applications
+  progress: 60%
 
-- title: Adobe Illustrator
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 20%
+- title: Python
+  desc: I've read more Python than I've written. I understand the MVC architecture quite well and can thus dive into any Phyton based web service and start writing code.
+  progress: 40%
